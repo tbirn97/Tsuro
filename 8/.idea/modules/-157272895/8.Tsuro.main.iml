@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Tsuro:main" external.linked.project.path="$MODULE_DIR$/../../../../Tsuro" external.root.project.path="$MODULE_DIR$/../../../Other" external.system.id="GRADLE" external.system.module.group="8" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../../Tsuro/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Tsuro/Admin">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../Tsuro/Admin" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../Tsuro/Common">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../Tsuro/Common" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../Tsuro/Player">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../Tsuro/Player" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../Tsuro/resources">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../Tsuro/resources" type="java-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../Tsuro/src/main" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.13" level="project" />
+    <orderEntry type="library" name="Gradle: org.json:json:20190722" level="project" />
+  </component>
+</module>

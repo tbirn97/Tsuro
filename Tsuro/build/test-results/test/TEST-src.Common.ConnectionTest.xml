@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="src.Common.ConnectionTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-12-10T15:18:35" hostname="Tylers-MacBook-Pro-2.local" time="0.009">
+  <properties/>
+  <testcase name="testGetStart" classname="src.Common.ConnectionTest" time="0.001"/>
+  <testcase name="testGetEndOfConnection" classname="src.Common.ConnectionTest" time="0.001"/>
+  <testcase name="testBadConnectionConstruction" classname="src.Common.ConnectionTest" time="0.005"/>
+  <testcase name="testGetEnd" classname="src.Common.ConnectionTest" time="0.001"/>
+  <testcase name="testGetRotatedConnectionHard" classname="src.Common.ConnectionTest" time="0.0"/>
+  <testcase name="testGetRotatedConnectionSimple" classname="src.Common.ConnectionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

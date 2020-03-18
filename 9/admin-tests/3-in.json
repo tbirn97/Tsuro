@@ -1,0 +1,13 @@
+[{ "name" : "player1", "strategy" : "../Tsuro/Player/src/Player/FirstS.java"},
+  { "name" : "player2", "strategy" : "../Tsuro/Player/src/Player/SecondS.java"},
+  { "name" : "player3", "strategy" : "../Tsuro/Player/src/Player/SecondS.java"},
+  { "name" : "player4", "strategy" : "../Tsuro/Player/src/Player/FirstS.java"},
+  { "name" : "player5", "strategy" : "../Tsuro/Player/src/Player/FirstS.java"},
+  { "name" : "player6", "strategy" : "../Tsuro/Player/src/Player/SecondS.java"},
+  { "name" : "player7", "strategy" : "../Tsuro/Player/src/Player/FirstS.java"},
+  { "name" : "player8", "strategy" : "../Tsuro/Player/src/Player/SecondS.java"},
+  { "name" : "player9", "strategy" : "../Tsuro/Player/src/Player/FirstS.java"},
+  { "name" : "player10", "strategy" : "../Tsuro/Player/src/Player/SecondS.java"},
+  { "name" : "player11", "strategy" : "../Tsuro/Player/src/Player/SecondS.java"},
+  { "name" : "player12", "strategy" : "../Tsuro/Player/src/Player/SecondS.java"}
+]

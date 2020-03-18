@@ -1,0 +1,6 @@
+rootProject.name = '10'
+
+include 'Tsuro'
+include '8'
+project(':Tsuro').projectDir = file('../../Tsuro')
+project(':8').projectDir = file('../../8/Other')

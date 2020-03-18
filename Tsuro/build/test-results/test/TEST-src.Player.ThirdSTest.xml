@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="src.Player.ThirdSTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-12-10T15:18:35" hostname="Tylers-MacBook-Pro-2.local" time="0.012">
+  <properties/>
+  <testcase name="testGetTurnFirstWrong" classname="src.Player.ThirdSTest" time="0.01"/>
+  <testcase name="testGetTurnFirstTileWrong" classname="src.Player.ThirdSTest" time="0.0"/>
+  <testcase name="testGetInitialTurnEmpty" classname="src.Player.ThirdSTest" time="0.001"/>
+  <testcase name="testGetInitialTurnZeroFilled" classname="src.Player.ThirdSTest" time="0.0"/>
+  <testcase name="testGetInitialTurnLeftSideFilled" classname="src.Player.ThirdSTest" time="0.0"/>
+  <testcase name="testGetTurnSimple" classname="src.Player.ThirdSTest" time="0.0"/>
+  <testcase name="testGetTurnAllInvalid" classname="src.Player.ThirdSTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

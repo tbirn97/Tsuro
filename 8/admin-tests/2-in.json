@@ -1,0 +1,6 @@
+[{ "name" : "Liam", "strategy" : "../Tsuro/Player/src/Player/SecondS.java"},
+  { "name" : "Tyler", "strategy" : "../Tsuro/Player/src/Player/FirstS.java"},
+  { "name" : "Joe", "strategy" : "../Tsuro/Player/src/Player/SecondS.java"},
+  { "name" : "Joe", "strategy" : "../Tsuro/Player/src/Player/FirstS.java"},
+  { "name" : "Frank", "strategy" : "../Tsuro/Player/src/Player/SecondS.java"}
+]

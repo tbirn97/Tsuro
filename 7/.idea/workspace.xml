@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0715543b-5433-4857-adb6-7eabbacb7592" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Tsuro/Admin/src/Admin/RefereeObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8/Other/src/main/java/xadmin/AdminTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../8/Other/src/main/java/xadmin/AdminTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8/Other/src/main/java/xadmin/RankingHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../8/Other/src/main/java/xadmin/RankingHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tsuro/Admin/src/Admin/CompetitionResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Tsuro/Admin/src/Admin/CompetitionResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tsuro/Admin/src/Admin/Referee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Tsuro/Admin/src/Admin/Referee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tsuro/Admin/src/Admin/administrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Tsuro/Admin/src/Admin/administrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tsuro/Common/src/Common/PlayerInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Tsuro/Player/src/Player/PlayerInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tsuro/Player/src/Player/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Tsuro/Player/src/Player/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tsuro/Tests/src/Admin/RefereeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Tsuro/Tests/src/Admin/RefereeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tsuro/Tests/src/Admin/administratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Tsuro/Tests/src/Admin/administratorTest.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="7" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="7" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1TGYax5abfwNc565ATLuyk4jVXh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Other/src.main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0715543b-5433-4857-adb6-7eabbacb7592" name="Default Changelist" comment="" />
+      <created>1573087966703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573087966703</updated>
+      <workItem from="1573087968325" duration="459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

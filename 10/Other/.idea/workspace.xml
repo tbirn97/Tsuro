@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b89394c8-ea4d-4e69-a0d8-957d61c73374" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/10-client.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-server.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tsuro/Common/src/Common/AvatarColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tsuro/Common/src/Common/AvatarColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tsuro/Common/src/Common/Draw/GraphicalDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tsuro/Common/src/Common/Draw/GraphicalDraw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tsuro/Tests/src/Admin/RefereeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tsuro/Tests/src/Admin/RefereeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tsuro/Tests/src/Common/BoardMutatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tsuro/Tests/src/Common/BoardMutatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tsuro/Tests/src/Common/BoardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tsuro/Tests/src/Common/BoardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tsuro/Tests/src/Common/InitialActionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tsuro/Tests/src/Common/InitialActionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tsuro/Tests/src/Common/InitialRuleNoAdjacentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tsuro/Tests/src/Common/InitialRuleNoAdjacentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tsuro/Tests/src/Common/InitialRulePortFacesInwardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tsuro/Tests/src/Common/InitialRulePortFacesInwardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tsuro/Tests/src/Common/JSONTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tsuro/Tests/src/Common/JSONTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tsuro/Tests/src/Common/TurnActionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tsuro/Tests/src/Common/TurnActionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tsuro/Tests/src/Common/TurnRuleNoInfiniteLoopsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tsuro/Tests/src/Common/TurnRuleNoInfiniteLoopsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tsuro/Tests/src/Common/TurnRuleNoSuicideTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tsuro/Tests/src/Common/TurnRuleNoSuicideTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tsuro/Tests/src/Player/FirstSTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tsuro/Tests/src/Player/FirstSTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tsuro/Tests/src/Player/SecondSTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tsuro/Tests/src/Player/SecondSTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tsuro/Tests/src/Player/ThirdSTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tsuro/Tests/src/Player/ThirdSTest.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="10" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="10" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1Tvvge5Unytn4lpNX9w9mvCs5xv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/../../8/Other" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.Other [jar]">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xclients.XClient" />
+      <module name="10.main" />
+      <option name="PROGRAM_PARAMETERS" value="swdev.mballantyne.net 49988" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/../../9/instructor-admin-tests/14-in.json" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xclients.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xserver.XServer" />
+      <module name="10.main" />
+      <option name="PROGRAM_PARAMETERS" value="49988" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/../../9/instructor-admin-tests/14-in.json" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Other [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RulesTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;src.Common.RulesTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Tsuro:cleanTest" />
+            <option value=":Tsuro:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in '10.Tsuro.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Tsuro:cleanTest" />
+            <option value=":Tsuro:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.XServer" />
+      <item itemvalue="Application.XClient" />
+      <item itemvalue="Gradle.Other [jar]" />
+      <item itemvalue="Gradle.RulesTest" />
+      <item itemvalue="Gradle.Tests in '10.Tsuro.test'" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Other [jar]" />
+        <item itemvalue="Gradle.Tests in '10.Tsuro.test'" />
+        <item itemvalue="Application.XClient" />
+        <item itemvalue="Application.XServer" />
+        <item itemvalue="Gradle.RulesTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b89394c8-ea4d-4e69-a0d8-957d61c73374" name="Default Changelist" comment="" />
+      <created>1574353495890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574353495890</updated>
+      <workItem from="1574353497887" duration="38269000" />
+      <workItem from="1575559605982" duration="13831000" />
+      <workItem from="1575948413429" duration="8045000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../Tsuro/Player/src/Player/FirstS.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../Tsuro/Admin/src/Admin/administrator.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../Tsuro/Admin/src/Admin/administrator.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../Tsuro/Admin/src/Admin/Referee.java</url>
+          <line>149</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../Tsuro/Tests/src/Admin/administratorTest.java</url>
+          <line>276</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../Tsuro/Tests/src/Admin/administratorTest.java</url>
+          <line>275</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../Tsuro/Tests/src/Admin/administratorTest.java</url>
+          <line>274</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../Tsuro/Admin/src/Admin/administrator.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../Tsuro/Tests/src/Common/JSONTest.java</url>
+          <line>193</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/xserver/XServer.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../Tsuro/Remote/src/Remote/Server.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../Tsuro/Tests/src/Admin/administratorTest.java</url>
+          <line>298</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

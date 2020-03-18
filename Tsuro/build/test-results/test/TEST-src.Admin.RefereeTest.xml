@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="src.Admin.RefereeTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-12-10T15:18:34" hostname="Tylers-MacBook-Pro-2.local" time="0.707">
+  <properties/>
+  <testcase name="playTest1" classname="src.Admin.RefereeTest" time="0.007"/>
+  <testcase name="playTest2" classname="src.Admin.RefereeTest" time="0.009"/>
+  <testcase name="testRemovePlayerInterfaceNotCheater" classname="src.Admin.RefereeTest" time="0.69"/>
+  <testcase name="testRemovePlayerInterfaceCheater" classname="src.Admin.RefereeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

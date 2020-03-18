@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="src.Admin.administratorTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-12-10T15:18:32" hostname="Tylers-MacBook-Pro-2.local" time="2.444">
+  <properties/>
+  <testcase name="testFourPlayersThirdS" classname="src.Admin.administratorTest" time="0.426"/>
+  <testcase name="registerPlayer" classname="src.Admin.administratorTest" time="0.0"/>
+  <testcase name="test12SecondS" classname="src.Admin.administratorTest" time="0.832"/>
+  <testcase name="testThreePlayersThirdS" classname="src.Admin.administratorTest" time="0.043"/>
+  <testcase name="testThreePlayersDifferentStrategies" classname="src.Admin.administratorTest" time="0.014"/>
+  <testcase name="testFivePlayersThirdS" classname="src.Admin.administratorTest" time="0.201"/>
+  <testcase name="testThreePlayersSecondS" classname="src.Admin.administratorTest" time="0.018"/>
+  <testcase name="motherOfAllTests" classname="src.Admin.administratorTest" time="0.82"/>
+  <testcase name="firstTestMichael" classname="src.Admin.administratorTest" time="0.063"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

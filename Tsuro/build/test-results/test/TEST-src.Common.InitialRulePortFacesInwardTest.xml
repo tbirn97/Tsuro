@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="src.Common.InitialRulePortFacesInwardTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-12-10T15:18:35" hostname="Tylers-MacBook-Pro-2.local" time="0.005">
+  <properties/>
+  <testcase name="isValidMoveRight" classname="src.Common.InitialRulePortFacesInwardTest" time="0.001"/>
+  <testcase name="isValidMoveTopRight" classname="src.Common.InitialRulePortFacesInwardTest" time="0.0"/>
+  <testcase name="isValidMoveBottomRight" classname="src.Common.InitialRulePortFacesInwardTest" time="0.001"/>
+  <testcase name="isValidMoveTop" classname="src.Common.InitialRulePortFacesInwardTest" time="0.0"/>
+  <testcase name="isValidMoveTopLeft" classname="src.Common.InitialRulePortFacesInwardTest" time="0.001"/>
+  <testcase name="isValidMoveBottom" classname="src.Common.InitialRulePortFacesInwardTest" time="0.0"/>
+  <testcase name="isValidMoveBottomLeft" classname="src.Common.InitialRulePortFacesInwardTest" time="0.0"/>
+  <testcase name="isValidMoveLeft" classname="src.Common.InitialRulePortFacesInwardTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="src.Common.JSONTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-12-10T15:18:35" hostname="Tylers-MacBook-Pro-2.local" time="0.109">
+  <properties/>
+  <testcase name="testStatePatHandlerSerialization" classname="src.Common.JSONTest" time="0.01"/>
+  <testcase name="testColorHandlerSerializationIntoDeserialization" classname="src.Common.JSONTest" time="0.002"/>
+  <testcase name="testActionHandlerSerializationIntoDeserialization" classname="src.Common.JSONTest" time="0.001"/>
+  <testcase name="testStatePatHandlerSerializationIntoDeserialization" classname="src.Common.JSONTest" time="0.003"/>
+  <testcase name="testColorHandlerSerialization" classname="src.Common.JSONTest" time="0.001"/>
+  <testcase name="testColorHandlerDeserialization" classname="src.Common.JSONTest" time="0.001"/>
+  <testcase name="testStatePatHandlerDeserialization" classname="src.Common.JSONTest" time="0.001"/>
+  <testcase name="testActionHandlerSerialization" classname="src.Common.JSONTest" time="0.001"/>
+  <testcase name="testActionHandlerDeserialization" classname="src.Common.JSONTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

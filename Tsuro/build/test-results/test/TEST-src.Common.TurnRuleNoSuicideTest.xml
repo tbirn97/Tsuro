@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="src.Common.TurnRuleNoSuicideTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-12-10T15:18:35" hostname="Tylers-MacBook-Pro-2.local" time="0.008">
+  <properties/>
+  <testcase name="isValidMoveSlowSuicide" classname="src.Common.TurnRuleNoSuicideTest" time="0.001"/>
+  <testcase name="isValidMoveFastSuicide" classname="src.Common.TurnRuleNoSuicideTest" time="0.001"/>
+  <testcase name="isValidMoveNoOtherOptions" classname="src.Common.TurnRuleNoSuicideTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

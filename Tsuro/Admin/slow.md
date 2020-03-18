@@ -1,0 +1,4 @@
+Commit for adding a timeout check when calling players:
+`cb1d08046ef0091836e3febf9f4e137f0bafea31`
+
+We already had calls to a player being expressed as a `<T> Callable<T>` object. A callable is simply a method that can be executed that returns a value. We specify a generic value of `T` so that any object can be returned. To add a timeout on long calls we use an `ExecuterService` that can accept a callable, and return a `Future<T>`. A future is a object that will have a value that may or may not be available at a given time. We then call the `Future.get()` method that will wait until the value is available and return it and we specify that if the value takes longer than 3 seconds to be available, we throw an exception. By surrounding this call with a try-catch we can catch timeouts and exceptions for players.

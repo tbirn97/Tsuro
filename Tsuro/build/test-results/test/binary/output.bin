@@ -1,0 +1,7 @@
+(*Board state: GAME_OVER
+(*^Position: (0, 0) Tile: [[Start: A End: F][Start: B End: C][Start: D End: H][Start: E End: G]]
+(*^Position: (1, 0) Tile: [[Start: A End: D][Start: B End: F][Start: C End: G][Start: E End: H]]
+(*^Position: (8, 0) Tile: [[Start: A End: D][Start: B End: F][Start: C End: G][Start: E End: H]]
+(*Avatar: RED @ (1, 0), port: E
+(*Avatar: BLUE @ (8, 0), port: E
+(*

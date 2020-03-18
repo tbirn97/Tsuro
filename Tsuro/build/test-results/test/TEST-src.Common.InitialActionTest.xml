@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="src.Common.InitialActionTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-12-10T15:18:35" hostname="Tylers-MacBook-Pro-2.local" time="0.002">
+  <properties/>
+  <testcase name="getAvatarPlacement" classname="src.Common.InitialActionTest" time="0.001"/>
+  <testcase name="getTileToPlace" classname="src.Common.InitialActionTest" time="0.0"/>
+  <testcase name="getPlayerAvatar" classname="src.Common.InitialActionTest" time="0.0"/>
+  <testcase name="getRotation" classname="src.Common.InitialActionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
